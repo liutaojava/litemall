@@ -11,7 +11,7 @@ Page({
    */
   data: {
     name: 'litemall',
-    address: 'https://github.com/linlinjava/litemall',
+    address: 'https://github.com/liutaojava/litemall',
     latitude: '31.201900',
     longitude: '121.587839',
     phone: '021-xxxx-xxxx',

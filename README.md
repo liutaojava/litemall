@@ -48,7 +48,7 @@ litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 
 ## 项目代码
 
 * [码云](https://gitee.com/linlinjava/litemall)
-* [GitHub](https://github.com/linlinjava/litemall)
+* [GitHub](https://github.com/liutaojava/litemall)
 
 ## 项目架构
 ![](./doc/pics/readme/project-structure.png)
@@ -246,5 +246,5 @@ V 3.0.0 完成以下目标：
 
 ## License
 
-[MIT](https://github.com/linlinjava/litemall/blob/master/LICENSE)
+[MIT](https://github.com/liutaojava/litemall/blob/master/LICENSE)
 Copyright (c) 2018-present linlinjava
